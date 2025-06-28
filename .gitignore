@@ -205,3 +205,15 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# -----------------------------------------------------------------------------
+# My additions for general web development (if applicable)
+# -----------------------------------------------------------------------------
+
+# Node.js dependencies (if you use npm/yarn for frontend projects)
+# Often found in projects using React, Vue, Angular, or other JS build tools
+node_modules/
+
+# Sometimes build output for web projects (already covered by Python's build/dist, but good to be aware)
+# /dist/
+# /build/
